@@ -1,0 +1,11 @@
+-IC:\Users\KOFI BRONX\Documents\elevy\total
+-Ic:\mingw32\include\c++\11.2.0
+-Ic:\mingw32\include\c++\11.2.0\i686-w64-mingw32
+-Ic:\mingw32\include\c++\11.2.0\backward
+-Ic:\mingw32\lib\gcc\i686-w64-mingw32\11.2.0\include
+-Ic:\mingw32\include
+-Ic:\mingw32\lib\gcc\i686-w64-mingw32\11.2.0\include-fixed
+-Ic:\mingw32\i686-w64-mingw32\include
+-IC:\mingw32\bin\mingw\include
+-target
+i686-w64-mingw32
