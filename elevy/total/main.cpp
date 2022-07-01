@@ -13,7 +13,7 @@ int main()
     
     
     
-    if (amount_to_be_tax >= 150)
+    if (amount_to_be_tax > 100)
     {
         cout <<total_tax <<":This is the tax amount you will pay " << endl;
     }
