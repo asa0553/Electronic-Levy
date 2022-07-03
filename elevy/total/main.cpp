@@ -9,12 +9,13 @@ int main()
     
       cin >> amount_to_be_tax;
     
-    float total_tax = 1.5/100 * amount_to_be_tax;
+    float total_tax = 1.5/100 * (amount_to_be_tax - 100);
     
     
     
     if (amount_to_be_tax > 100)
     {
+	cout << amount-to_be_tax - 100 <<endl;    
         cout <<total_tax <<":This is the tax amount you will pay " << endl;
     }
     else if(amount_to_be_tax <= 100)
